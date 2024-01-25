@@ -1,8 +1,5 @@
-
 //Data Structure And Algorithm Singly Linked  Simple Example
-
 #include<iostream>
-
  void insert_end(int x);
  	void insert_beg(int x);
  	void insert_right_y(int x,int y);
